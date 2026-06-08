@@ -76,14 +76,6 @@ This project helped me gain practical experience in:
 
 This project was developed as part of my **Web Development Internship at Pinnacle Labs**, where I gained hands-on experience building real-world web applications and implementing API-driven solutions.
 
-## 📧 Contact
 
-**Vaseem Sadikkali**
-
-LinkedIn: Add your LinkedIn profile link here
-
-GitHub: https://github.com/vaseemsadikkali
-
----
 
 ⭐ If you like this project, consider giving it a star on GitHub!
